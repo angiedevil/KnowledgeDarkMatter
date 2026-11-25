@@ -21,7 +21,7 @@ Missing* (concept note). https://doi.org/10.5281/zenodo.24528180
 ## Get in touch
 
 If you work on knowledge graphs, data quality, research tooling or AI
-reliability and want to talk, contact me at [your email or LinkedIn].
+reliability and want to talk, contact me at findom1441@gmail.com.
 
 ## Copyright and licence
 
